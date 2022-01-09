@@ -1,2 +1,2 @@
-# Face-Recognition-from-Images-zip
+# Face-Recognition-from-zip Images
 Face recognition and extraction from newspaper images in zip files. 
